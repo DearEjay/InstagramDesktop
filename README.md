@@ -12,11 +12,11 @@ Check your installs with node -v and npm -v.
 
 2. Clone the Repository
 
-Use the SSH link to download the repo using git clone ```git@gitlab.com:fall17-group3/tempeturs-frontend.git```.
+Use the SSH link to download the repo using git clone ```git@github.com:DearEjay/InstagramDesktop.git```.
 
 **OR**
 
-Use the HTTPS link to download the repo using git clone ```https://gitlab.com/fall17-group3/tempeturs-frontend.git```.
+Use the HTTPS link to download the repo using git clone ```https://github.com/DearEjay/InstagramDesktop.git```.
 
 3. Install Dependencies
 
@@ -29,13 +29,13 @@ Run ```npm install``` in the top level directory of the project (where ```packag
 
 * For ```development mode```:
 	Ensure that ```line 13``` in ```main.js``` is set to ```'development'```.
-	Then, run ```npm start```.
+	 Then, run ```npm start```.
 
     ***OR***
 
 * For ```production mode```:
 	Ensure that ```line 13``` in ```main.js``` is set to ```'production'```.
-	Then, run ```npm start```.
+	 Then, run ```npm start```.
 
 ## (Optional) Create a Custom Build
 
