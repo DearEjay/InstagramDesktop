@@ -49,6 +49,16 @@ After following ```steps 1-3``` above, you can create your own custom build.
 * Build Linux:
 	Run ```npm package-linux```
 
+## Beta Releases
+
+* [macOS](https://www.dropbox.com/s/bzp2umy3trzsn2b/InstagramDesktop%20%28beta%29-macOs-x64.zip?dl=0)
+
+* [Windows](https://www.dropbox.com/s/tahs85y0bgifaqs/InstagramDesktop%20%28beta%29-win32-ia32.zip?dl=0)
+
+* [Linux](https://www.dropbox.com/s/j8q2yebdpdttvyx/InstagramDesktop%20%28beta%29-linux-x64.zip?dl=0)
+
+
+
 
 ## Built With
 
