@@ -28,14 +28,14 @@ Run ```npm install``` in the top level directory of the project (where ```packag
 4. Build the Project
 
 * For ```development mode```:
-	Ensure that ```line 13``` in ```main.js``` is set to ```'development'```
-	Then, run ```npm start``` 
+	Ensure that ```line 13``` in ```main.js``` is set to ```'development'```.
+	Then, run ```npm start```.
 
-***OR***
+    ***OR***
 
 * For ```production mode```:
-	Ensure that ```line 13``` in ```main.js``` is set to ```'production'```
-	Then, run ```npm start``` 
+	Ensure that ```line 13``` in ```main.js``` is set to ```'production'```.
+	Then, run ```npm start```.
 
 ## (Optional) Create a Custom Build
 
