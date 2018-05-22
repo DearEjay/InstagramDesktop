@@ -37,7 +37,9 @@ Run ```npm install``` in the top level directory of the project (where ```packag
 	Ensure that ```line 13``` in ```main.js``` is set to ```'production'```
 	Then, run ```npm start``` 
 
-5. (Optional) Create a custom build
+## (Optional) Create a Custom Build
+
+After following ```steps 1-3``` above, you can create your own custom build. 
 
 * Build macOS:
 	Run ```npm package-mac```
